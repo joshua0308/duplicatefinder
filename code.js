@@ -1,3 +1,5 @@
+// this is a Google Apps Script project
+
 function onOpen() {
   var spreadsheet = SpreadsheetApp.getActive();
   var menuItems = [
